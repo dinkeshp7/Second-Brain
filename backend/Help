@@ -21,3 +21,5 @@ your codebase without type errors
 
 Helloworld
 mongodb+srv://dinkeshgta:VRW03Lpwn2aeT6TP@cluster0.le9ohtg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+//"dev": "npm run build && npm run start",
